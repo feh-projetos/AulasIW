@@ -1,0 +1,71 @@
+body{
+	
+	background-color:#fff;
+    
+}
+
+
+.container{
+ 
+  width: 80%;
+  margin-right:auto;
+  margin-left: auto;
+
+}
+h1{
+	
+	font-size: 3em;
+}
+h2{
+font-size: 2em;
+
+}
+}
+.titulos{
+text-align: center;
+color: #fff
+font-weight:bolder;
+line-height: 2;
+font-family: 'Dancing Script' cursive;
+
+
+}
+<style>
+a:link {
+  color: Violet;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: MediumVioletRed;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: DarkMagenta;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: Orchid;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+table{
+
+	border-collapse: collapse;
+	width:80%;
+	font-size: 1.2em
+
+}
+
+td,th{
+
+	border: 5px dashed #F1948A
+
+    
+}
