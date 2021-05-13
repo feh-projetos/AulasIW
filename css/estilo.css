@@ -1,3 +1,5 @@
+
+
 body{
 	
 	background-color:#fff;
@@ -12,6 +14,8 @@ body{
   margin-left: auto;
 
 }
+
+
 h1{
 	
 	font-size: 3em;
@@ -30,15 +34,35 @@ font-weight:bolder;
 line-height: 2;
 font-family:'Dancing Script',cursive;
 }
-header,footer{
 
+header,footer{
+   align-content: 
+   padding: 3%;
+   position: relative;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   font-size: 1.5em;
+   line-height: 1.5;
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
 }
+
+.fixo{
+position: fixed;
+top: 0;
+right: 0;
+left: 0;
+
+
+}
+
+
 <style>
 a:link {
-  color: Violet;
+  color:  MediumVioletRed;
   background-color: transparent;
   text-decoration: none;
+  padding: 3%
 }
 
 a:visited {
@@ -71,5 +95,14 @@ td,th{
 
 	border: 5px dashed #F1948A
 
-    
 }
+.imglogo{
+
+  vertical-align: 
+}
+
+    
+    /*quando a tela for maior que 600px */
+@media screen and (min-width:  600px){
+
+  }
