@@ -33,27 +33,15 @@ body {
 	
 
 
-}
-h1{
-	
-	font-size: 3em;
-}
-h2{
-font-size: 2em;
-
-}
 
 
-.titulos{
-text-align: center;
-color: #fff
-font-weight:bolder;
-line-height: 2;
+
+
 
 
 }
 ol, ul {
-	list-style:;
+	list-style:none;
 
 }
 blockquote, q {
